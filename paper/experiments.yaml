@@ -1,0 +1,79 @@
+# Every simulation behind the paper. `hpvcc paper simulate <name>` runs one experiment;
+# results are cached in results/paper/simulations/<name>/<unit>.npz and reused by the
+# table and figure commands.
+#
+# One design for every unit (national model and the 36 state/UT models):
+#   * 1000 stochastic simulations per screened scenario;
+#   * r_H ~ U(r_I, 1) and theta ~ U(0, gamma), redrawn every simulated year;
+#   * simulation j of a scenario draws from default_rng([seed, key, j]), key = coverage / 0.05
+#     (scheme "yearly", src/hpvcc/simulation.py).
+
+experiments:
+
+  states_coverage_sweep:
+    description: >
+      36 state/UT models, HPV-DNA testing (H+ = 0.95) from 2026 at coverage 0-100 % in 5 % steps,
+      1000 simulations each. Source of Figs 4-6, S11-S16 and Tables 1, S5, S6.
+    units: states
+    sweep: coverage
+    values: [0.00, 0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50,
+             0.55, 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95, 1.00]
+    fixed: {H_pos: 0.95}
+    n_sims: 1000
+    draws: {scheme: yearly, seed: 0}
+
+  india_coverage_sweep:
+    description: >
+      National model, HPV-DNA testing (H+ = 0.95) at coverage 0-100 % in 5 % steps, 1000 simulations.
+      Source of Figs 3, 5, 6 (India bar) and Tables 1, S4, S5, S7.
+    units: [India]
+    sweep: coverage
+    values: [0.00, 0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50,
+             0.55, 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95, 1.00]
+    fixed: {H_pos: 0.95}
+    n_sims: 1000
+    draws: {scheme: yearly, seed: 0}
+
+  india_test_type:
+    description: >
+      National model, four screening tests (Pap 0.70, VIA 0.75, LBC 0.85, HPV-DNA 0.95) at 75 % coverage,
+      1000 simulations, all compartments kept. Source of Fig S3 and Table S8.
+    units: [India]
+    sweep: H_pos
+    values: [0.70, 0.75, 0.85, 0.95]
+    fixed: {coverage: 0.75}
+    n_sims: 1000
+    draws: {scheme: yearly, seed: 0}
+    keep_full: true
+
+  states_test_type:
+    description: >
+      36 state/UT models, four screening tests (Pap 0.70, VIA 0.75, LBC 0.85, HPV-DNA 0.95) at 70 % coverage,
+      1000 simulations each. Source of Table 1 and Table S11.
+    units: states
+    sweep: H_pos
+    values: [0.70, 0.75, 0.85, 0.95]
+    fixed: {coverage: 0.70}
+    n_sims: 1000
+    draws: {scheme: yearly, seed: 0}
+
+  india_test_type_70:
+    description: >
+      National model, the same four screening tests at 70 % coverage, 1000 simulations. India row of
+      Table 1 and Table S11.
+    units: [India]
+    sweep: H_pos
+    values: [0.70, 0.75, 0.85, 0.95]
+    fixed: {coverage: 0.70}
+    n_sims: 1000
+    draws: {scheme: yearly, seed: 0}
+
+  india_monte_carlo:
+    description: >
+      National model, parameter uncertainty of the no-screening projection: the 500 accepted
+      parameter sets of the GLUE Monte Carlo analysis (10 000 sets sampled within +/-25 % of the
+      fitted values, best 5 % kept), each simulated once. Source of Fig S4.
+    units: [India]
+    kind: parameter_sets
+    sets: params/india_uncertainty_sets.csv
+    n_samples_drawn: 10000

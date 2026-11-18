@@ -1,0 +1,1089 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,17985.98841,27896.53537,9617.037201
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,5657.824331,9894.94018,2667.903871
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,5680.432506,8951.07019,3587.287316
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,4039.708848,7805.928442,1932.817433
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,8890.373229,13430.74324,4916.488078
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,1556.68856,2377.918302,898.9968249
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,632.6585595,1024.133293,379.2609458
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,14119.90735,22246.99659,6990.325668
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,182.2962052,284.5828562,103.1544373
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,14394.23545,21969.25114,8746.929582
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,2399.453134,3617.769259,1424.569681
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,24185.43633,38020.80776,10034.03217
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,22800.62565,36200.91153,11895.28507
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,9246.060393,13552.53608,5826.52799
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,86.00845426,131.913434,52.41280302
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,1479.566972,2247.072377,985.030159
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,21975.19736,34606.8596,14837.89738
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,13029.62906,20652.1982,6953.537133
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,17898.34954,30271.9545,8125.217939
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,41842.76543,76214.35633,20271.01903
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,10246.28753,16779.95815,6452.716645
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,5252.287362,9038.751976,2562.271354
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,2045.385924,3377.292392,1200.301959
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,274159.702,415036.272,160599.8201
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,332.1510194,572.3729132,189.9160944
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,327.9515507,550.4140291,193.8598157
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,21277.2868,32874.66778,13059.85463
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,332.4779675,552.2220766,181.7950696
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,254.1150018,421.6418363,122.8484634
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,642.9203357,974.1726958,418.4440278
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,5060.603765,8132.819452,2743.336685
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,280392.9554,425630.8776,163000.1609
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1990,305.0289737,504.7979519,152.4117403
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,18511.33263,30588.69109,8562.843825
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,23482.14658,38870.21548,11883.41253
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,43048.56904,81769.13789,21468.92472
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,1570.350279,2329.966172,1068.818868
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,340.6579137,571.6110255,199.4451887
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,10393.38477,17065.10821,6620.179738
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,21642.75691,33562.52801,13144.49934
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,643.2774651,1012.312793,393.41132
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,261.9888302,435.2124028,124.9675028
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,9098.657174,14224.64316,5089.237002
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,22410.19256,35756.74835,14719.78956
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,1586.731854,2361.097252,941.5437519
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,2038.610366,3375.033216,1178.840881
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,342.9291655,591.0554884,200.2803069
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,14564.68107,23204.88528,7048.458022
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,5345.33307,9249.46191,2584.96608
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,18418.71428,29030.03181,9889.832722
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,337.0326408,552.4035578,188.989152
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,650.3197116,984.4882875,417.0138222
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,5763.958621,10117.76031,2826.629083
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,5789.587479,9042.261387,3632.116354
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,14517.10667,22072.11178,8916.608164
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,24380.09034,38606.85355,10175.37505
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,9655.624944,14314.10909,5935.848539
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,188.9170271,295.6909513,109.189428
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,5204.732162,8700.58959,2831.842831
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,321.3178905,522.1891475,159.7057185
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,2475.669336,3773.095402,1443.678341
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,4152.569531,7936.09913,2034.020522
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,90.44090107,140.5331637,55.83845915
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1991,13165.27421,21332.03504,6979.245704
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,1580.220453,2453.059654,930.9037042
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,280934.0743,433068.6632,166677.629
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,9037.014904,13975.57247,5050.719655
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,5204.868815,8605.482167,2897.608212
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,14589.40645,23346.35372,7240.565532
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,2491.90956,3780.5711,1470.45841
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,4207.086625,8071.017808,2098.628068
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,91.85961376,142.8914319,55.55961959
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,24496.27934,37781.91592,10049.93557
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,18334.50679,28683.06674,9838.750667
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,5729.123128,10204.73777,2764.232378
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,23746.78168,40098.61791,11815.968
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,5853.705228,9220.275664,3580.553073
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,9683.453894,14577.65641,5859.935952
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,640.8957927,1006.927248,396.9023683
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,22576.66286,35836.47,14658.29112
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,2006.061638,3321.981406,1165.379854
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,344.5251904,608.1055429,194.8913129
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,1630.950624,2346.909803,1087.022226
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,12955.42552,20751.68216,6993.400167
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,5296.289204,9206.551411,2590.478953
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,336.2974371,557.916141,187.1349034
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,10440.04413,17217.60176,6357.391128
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,330.0457503,526.6891714,169.0477185
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,642.2221932,978.0018024,414.5029429
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,14423.09079,22537.70942,8755.917101
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,189.6830597,300.5501598,108.398743
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,18620.6091,31124.77773,8789.498416
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,343.764099,573.5921187,202.5517862
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,23775.58649,41390.19152,11828.81333
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,43147.71415,82864.79696,21512.68527
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,1688.529213,2401.478936,1118.84893
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,263.0922024,441.7851156,127.5946387
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1992,21700.4841,33731.42638,12910.32975
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,10500.74146,17611.49253,6102.728896
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,279828.6088,442185.8409,166443.7904
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,5865.432598,9308.61023,3492.846072
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,1565.382961,2460.177813,944.1552932
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,17950.91355,29520.04796,9664.711558
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,5626.649958,9919.677165,2717.356962
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,9640.843633,14412.87779,5938.909131
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,22601.26529,36711.72102,14647.01795
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,346.1097279,602.4816883,186.7075586
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,648.2157645,1003.376659,397.3170879
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,9028.220819,14160.73639,5053.804933
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,1929.916628,3097.238329,1097.22808
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,5194.036489,9091.834506,2497.000348
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,329.8084477,551.920115,189.1667179
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,5210.560883,8697.379946,2873.048866
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,2471.744252,3907.266901,1525.137118
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,14670.5508,24439.94505,7149.425337
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,24673.12474,37952.01109,10715.91092
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,10515.6982,17349.69198,6124.274174
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,340.015399,563.0665196,173.9329556
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,1549.013895,2414.614124,924.3835948
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,9103.743613,14855.23558,4985.010615
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,4258.151524,8162.206603,2066.619709
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,92.44329487,144.6022365,54.41462409
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,12562.56111,20569.97252,6609.57598
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,14791.69581,25393.83727,7089.36948
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,188.6112351,301.5028116,108.3050808
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,628.6631713,962.6519724,388.6598342
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,18437.94896,30933.626,8786.599357
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,342.312865,567.9161501,199.1100091
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,43042.25597,82192.84826,21602.3933
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,265.2281847,447.0421865,128.9263014
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,21684.32575,33482.27971,13107.25724
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1993,14268.45765,22413.96948,8671.382482
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,24593.47438,37227.1738,10643.08146
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,23813.66908,41366.29565,11662.29832
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,278309.4064,446797.1671,167061.0339
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,1749.588195,2535.332497,1135.554742
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,5553.706346,9733.113397,2705.358219
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,17697.24578,29452.09601,9410.222834
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,5755.668497,9268.50577,3575.954023
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,9743.748695,14873.91852,6228.261309
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,22401.05329,36614.60655,14569.21938
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,649.5612768,1015.016513,389.780088
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,348.6307216,614.8444717,188.9198014
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,1860.351162,2977.014375,1082.821243
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,5210.235592,8602.740775,2857.832241
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,351.8207603,600.7449592,178.0910909
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,2435.931083,3852.27126,1515.421374
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,4310.910257,8538.596548,2113.549327
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,93.25155549,147.1471593,55.41041989
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,12203.66881,20670.45291,6132.286302
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,5092.981872,8680.095739,2546.702224
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,323.9429948,521.7364621,185.1265817
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,25336.77562,38370.6012,10810.11156
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,614.0022399,962.0147064,380.0250346
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,24240.65638,41641.84739,12217.28348
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,187.2128102,290.3322211,107.273845
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,1683.968857,2415.322799,1147.544159
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,14094.10051,23046.75137,8664.387438
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,18091.15888,31488.20005,8653.835436
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,337.0036695,563.5841936,199.427493
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,264.0217524,449.8514141,125.5835283
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,43157.76461,82455.62155,21526.39836
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,9256.674454,14892.21627,5135.18574
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,281093.4863,438120.2308,167422.8559
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,10702.93776,18117.33407,6472.914394
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1994,21414.55011,34376.51635,13098.50017
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,15124.83086,25608.46464,7317.776553
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,1557.300667,2456.593882,932.8619864
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,1676.632166,2473.871221,1201.614586
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,10750.40637,17887.09912,6592.077696
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,5786.094667,9268.48674,3471.160611
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,9974.70423,14996.16042,6426.685381
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,22559.36599,37498.62037,14735.26676
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,17601.01881,29401.4717,9270.840892
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,353.7421833,623.4062363,193.2727298
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,664.2637417,1052.764265,393.6682997
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,1827.170859,2951.780165,1094.440575
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,9578.251735,15340.1805,5423.976544
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,5570.781854,9651.571601,2755.367337
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,5026.905609,8499.750665,2543.083732
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,327.03121,522.8353349,186.8839371
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,12000.72268,19859.0334,6174.65554
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,5275.482725,8679.455746,2944.309726
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,15776.55159,26326.99893,7604.127246
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,364.5199285,623.3990198,183.6195923
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,4440.908168,8627.878209,2236.364332
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,2449.733241,3954.182297,1508.106274
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,1640.684211,2644.294076,997.4951731
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,95.18951696,148.9882361,57.572828
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,605.4216668,923.2451096,386.1797272
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,25783.98215,45038.03976,12999.76306
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,26917.62896,41467.70176,11392.81514
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,380.7502039,632.0364322,193.0323097
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,4540.653675,8777.971165,2257.40726
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,5434.535248,8771.760257,2989.751094
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,16567.91216,27618.17556,7926.611351
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,99.50955021,158.5189399,61.54699906
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,18090.70053,29336.8564,9654.373373
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,5708.140993,9848.84545,2857.355027
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,28584.7787,43610.60295,11903.21005
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,189.5537534,305.3635679,112.0661885
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,14061.78996,23750.42629,8579.796272
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,18101.90713,30519.26422,9026.844873
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,5157.647571,8794.979552,2545.850815
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,339.3035202,580.9153734,205.2007004
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,43584.1653,82951.09956,21717.25288
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,264.9488174,439.0664498,126.4742401
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,5904.625354,9164.238433,3500.036467
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,12221.80265,19829.85707,6283.096463
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1995,21725.61609,34389.31107,12973.17457
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,10008.24679,14881.97136,6496.128822
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,290347.7696,442798.3374,168111.8599
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,338.6835707,549.7849875,192.3512136
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,690.9006217,1068.225022,418.8087991
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,2538.203728,3952.094017,1522.001465
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,22990.11974,39181.24577,15345.39963
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,1856.451792,2959.092257,1122.303825
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,365.6773556,657.5828456,199.2324763
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,27474.89316,47372.70823,13699.981
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,10100.86008,16002.16964,5880.240025
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,1688.502563,2730.355112,1174.336589
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,11005.21025,18953.38538,6729.064173
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,1696.849121,2720.348145,1037.838715
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,615.9656532,956.7629802,395.296574
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,22773.89256,36074.1951,13523.62452
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,268.9835779,441.1279971,124.9097631
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,195.7749098,314.6481841,112.7526474
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,14413.78449,23979.29538,8688.55795
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,18318.31703,30591.00265,9112.290416
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,44964.94035,87014.15534,22504.82328
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1996,345.3244372,583.7501242,200.5339148
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,1685.317252,2939.635228,1102.047655
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,10435.04842,16607.02473,5981.032903
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,5276.484761,8857.023168,2724.900614
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,300070.6138,468677.9408,171455.6076
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,348.9534292,554.0538212,199.3942301
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,5551.403087,8865.509835,3108.967296
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,11357.4485,19725.63753,6838.189104
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,2649.216969,4147.875471,1596.570354
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,397.1181963,690.1937338,202.2676104
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,12483.03965,20025.70557,6359.532274
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,4665.399374,8702.339674,2393.396914
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,105.4092665,170.7875359,65.67629177
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,17378.85507,29231.51083,8457.04682
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,9933.682059,14260.35831,6383.731589
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,5976.207503,9034.572269,3656.001436
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,29815.55657,44007.5905,12354.86679
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,23282.24949,39295.65571,15138.15391
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,379.8074588,692.5228739,212.8975381
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,18693.55443,30113.90413,9858.466853
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,27550.05804,47799.38402,13123.49254
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,720.3487391,1119.666828,431.071074
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,1768.3719,2804.702668,1068.263755
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,1901.112496,2955.755017,1160.155495
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,5838.765472,9988.462212,2933.074498
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,634.5298773,1006.951576,404.2600747
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,202.180011,319.4432228,121.2247951
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,14787.61392,24469.85203,8808.693081
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,18226.44985,29324.78473,9025.8926
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,353.3490849,578.2513026,208.3072896
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,46183.19886,89380.30629,22532.94708
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,274.7728223,447.2374604,131.8560846
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1997,24086.76091,38275.10543,14207.66247
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,307850.074,476493.7996,177611.3245
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,357.3830456,558.165978,204.6359298
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,5703.749869,8968.750332,3129.606561
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,416.6135306,697.9421923,213.8051286
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,2742.311736,4099.498466,1669.453691
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,4860.460772,9063.381688,2533.837664
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,5377.254375,9037.561406,2699.24335
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,112.1029661,177.0187515,68.08286744
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,12730.94951,20395.7828,6627.571797
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,17819.83326,30736.9502,8894.968934
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,30231.57899,45018.42155,12726.70357
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,26789.20453,46723.23164,13142.87307
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,1668.074102,3092.836489,1059.196467
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,10590.44233,17056.5322,6172.838715
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,11468.41324,20439.40939,6700.646501
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,654.0596024,1034.365179,413.419338
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,5953.19042,10265.97851,2907.438349
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,19415.84502,30709.33707,10474.78904
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,10049.77674,14714.14347,6416.461875
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,768.7687498,1211.182843,472.1177809
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,6203.455958,9401.214868,3752.098229
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,23696.26013,41531.27732,15011.66827
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,1940.909564,3124.280805,1199.001537
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,1832.360814,2781.494232,1117.938804
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,400.3399549,737.9725858,215.9505789
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,358.1061641,587.6213165,202.2958044
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,25020.86514,40153.20883,14803.9308
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,280.6679165,465.9498545,135.2605501
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,15211.23514,24783.37708,9176.434063
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,310194.5263,465810.6888,184153.5342
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,211.9027424,330.8946568,125.0148774
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,18258.1205,28791.36394,8884.019924
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1998,47135.08865,91219.87477,22715.99167
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,5368.406216,8814.55617,2711.717842
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,369.8423168,587.9265899,215.5451458
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,120.2127317,187.9859311,74.76293531
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,5694.58211,8971.959469,3126.840704
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,2843.8006,4415.764142,1752.129724
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,12672.10552,20845.16747,6631.176682
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,430.8962368,733.9067712,221.4435164
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,5051.934127,9407.227881,2564.340542
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,669.1534503,1054.331518,407.2176354
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,6400.796526,9702.772994,4005.155912
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,10161.01561,14967.43554,6582.544259
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,23804.29369,42393.41465,14579.40638
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,19878.97335,32541.03601,10763.68056
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,425.0944385,749.6743064,223.1511282
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,821.7110595,1317.174213,494.9901043
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,5985.675325,10157.15988,2883.064725
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,1977.62453,3171.454913,1192.307846
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,25756.69095,44926.83571,12575.55496
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,1621.254626,3273.539859,972.3168158
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,11738.56726,21252.49741,6765.079037
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,1839.130663,2872.745462,1118.450259
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,10824.90297,17647.8986,6194.179835
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,17904.07011,30516.59975,8738.911687
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,30760.43235,46812.69227,13185.33689
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,381.9414773,613.5321556,225.4872844
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,5843.762095,9456.514546,3192.855934
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,2955.391823,4693.942864,1781.994993
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,217.2698125,343.2451553,124.8247943
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,15352.25869,24386.48486,9200.971834
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,18414.00479,29971.04731,8765.842122
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,5349.121999,9214.280405,2746.615868
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,47329.71644,91463.49712,23242.76801
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,362.6040036,601.358758,204.2413252
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,25156.94499,40816.54208,15175.02587
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,1999,285.7025208,466.8361183,137.3303697
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,443.9759436,768.5108237,231.133978
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,1889.826063,3008.037796,1150.433833
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,5316.372878,9874.740636,2657.392379
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,11506.03073,19054.01498,6540.129611
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,130.4710577,206.4942086,79.49377072
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,12650.3672,21060.1356,6685.263613
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,311531.8589,492312.833,185202.0998
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,18331.60745,30628.1379,8870.566606
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,19911.33168,32800.59661,10929.26844
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,5990.414574,10201.64607,2957.873685
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,6610.109858,10046.20778,4122.290395
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,10259.97856,15672.98874,6703.14296
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,23576.99308,42667.91412,14452.30915
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,453.2073797,818.9293132,256.0237867
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,865.9673819,1398.593216,510.1357855
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,2013.860699,3268.471756,1203.546609
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,31150.52841,48289.63166,13686.72537
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,687.7076672,1104.445601,405.6203656
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,25965.26335,45584.01433,12793.72512
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,1991.034155,3652.069287,1276.408242
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,11663.09243,21456.22716,6510.454762
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,319104.7602,510856.2533,190349.4999
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,47272.05984,86931.88504,23117.90429
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,368.2020027,623.5491629,210.8475484
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,25425.91159,39480.96882,15165.60896
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,289.272613,506.6349928,142.0351405
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,141.5270465,225.2326468,85.54287965
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,13047.69068,21646.52997,7041.063587
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,6779.758686,10406.77196,4214.785877
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,5550.244233,9441.602655,2901.568887
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,224.750871,356.563689,131.6397984
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,407.248573,683.2547975,240.6097579
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,15328.89721,24605.65813,9609.123005
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,455.8637319,782.494632,238.6179248
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,6231.731203,10163.48161,3474.601782
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,10470.10664,16499.27713,6669.742143
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2000,18736.74049,30550.13438,9264.462125
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,5546.824852,10310.72814,2782.169963
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,3145.737188,4921.987836,1916.738682
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,11725.94105,19149.61554,6536.177029
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,23338.28894,41969.06922,14908.08007
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,26507.43869,47231.17236,12748.37353
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,904.8311709,1508.203974,530.036853
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,731.4641386,1139.94951,435.5581684
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,18671.9834,31431.71817,8920.870946
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,479.782206,869.8526469,265.3470862
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,2366.839032,3879.455879,1586.159665
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,20242.9459,33223.52904,11337.19791
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,2131.70474,3477.245,1273.521414
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,6204.556753,10329.17225,3120.521226
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,30997.03578,48151.1677,13729.30609
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,11751.38197,21394.60477,6571.238209
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,2049.673833,3201.19559,1233.111457
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,237.9757188,377.3259793,139.355054
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,15670.4566,24278.12073,9717.367973
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,19422.66491,32273.33881,9472.376205
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,376.920454,679.8973804,205.8038906
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,290.495291,497.6095432,139.4613739
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,48642.66907,89933.81271,23759.58192
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2001,26155.88886,41703.13658,15859.79311
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,11686.30706,21859.39056,6503.155371
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,11671.79124,19379.53275,6453.81181
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,2107.61566,3290.862165,1264.29632
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,18666.38389,31780.3639,8949.470726
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,30685.31024,47955.03968,13968.67955
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,323959.6656,512982.9123,192162.1221
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,420.7322267,711.1807502,255.6545522
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,6541.384243,10493.63815,3685.05589
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,3259.45424,5001.16838,1966.961552
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,454.1070648,784.3577368,239.263244
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,5683.896011,9449.490559,3032.982635
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,5728.469616,10749.93641,2861.00916
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,148.5924836,241.9134007,91.651329
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,13169.39698,22578.65058,7022.401782
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,26891.26407,48679.99196,12561.40512
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,756.7728127,1199.307345,456.4547304
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,2690.555605,3980.555842,1866.152539
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,20118.80657,32827.16279,11136.71377
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,6702.443863,10632.61057,4041.144819
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,19956.43072,33929.66032,9660.778336
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,6289.116081,10574.61165,3170.640808
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,10554.29893,16714.7885,6571.261042
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,23084.61081,41191.67438,15025.81066
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,49720.85434,92789.25485,24882.13578
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,495.5914978,908.2901312,276.8474155
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,938.6517785,1543.138065,547.416194
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,2191.198937,3507.89056,1312.384354
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,376.9241908,684.5103774,198.5973445
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,26939.08284,43914.51154,16116.7281
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,289.2924153,501.3330617,141.549329
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,246.6107953,390.0710541,140.3616863
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2002,15822.65238,25182.96301,10017.63856
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,3307.67223,5125.689447,1993.069694
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,5592.856115,9338.90481,3050.557861
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,436.112091,736.5593945,267.5401886
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,6678.738998,10836.83826,3863.368109
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,153.5247427,249.3142563,92.38638802
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,448.0807526,778.0048109,234.649085
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,13096.43401,22317.55565,7104.456657
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,5810.405409,10676.35034,2927.728922
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,26706.81603,49026.97131,12703.09244
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,326380.0624,517268.0684,192280.6826
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,11602.49064,19207.16829,6577.325094
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,3039.27078,4327.376197,2099.111297
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,770.1687355,1218.383938,477.442812
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,253.203164,413.8225056,145.3334343
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,15554.35203,25276.42933,9812.64821
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,19908.10794,33726.94051,10045.47978
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,11553.99515,21791.59741,6381.297538
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,374.7513418,659.3023999,198.8569609
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,19891.9512,32650.36843,11115.46841
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,285.139003,491.3950487,139.9699516
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,51513.82037,95083.43031,25093.22129
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,10521.21418,16338.03116,6374.411381
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,6528.480987,10368.66673,3947.167032
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,27858.47045,45433.65422,16017.41691
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,23018.5557,39521.10422,14813.48678
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,503.1649797,911.8464641,289.0104555
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,957.5183162,1569.405307,554.6373198
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,2181.70142,3555.074371,1356.337537
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2003,6336.410505,10754.23295,3192.734736
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,19064.14066,32454.45357,9026.648155
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,2167.334991,3453.176481,1246.53646
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,30272.47414,45707.43687,14014.52476
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,11556.37052,22748.37722,6546.951545
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,11431.52703,18541.29287,6714.592464
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,2189.235663,3438.320956,1286.982745
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,26815.10828,47398.01677,13164.21168
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,19767.00292,33427.33156,9488.943215
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,263.6257737,414.2720388,156.7746993
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,19324.56292,33044.60015,10127.33785
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,382.8374747,680.6254056,205.3011233
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,281.4124733,477.0592243,137.0540182
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,15321.37562,25080.91504,9400.595507
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,326675.0883,525537.0802,195490.6771
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,5550.867257,9210.347708,3060.139363
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,51460.42336,92177.9164,24775.7335
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,19826.01214,32868.86043,11230.18742
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,30665.79435,44564.64505,14321.03821
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,445.0969268,768.1304496,234.083324
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,28192.18263,46090.50547,16268.2255
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,6567.768979,10391.39025,4177.375784
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,455.9837885,763.4613773,286.8999215
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,5821.202367,10756.13107,3013.023111
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,159.5503606,256.0524684,99.14285779
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,12992.45208,21658.11091,7039.59663
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,6868.791044,11186.3927,3919.112641
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,3358.015928,5237.869141,2061.029547
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,6373.110411,10717.42109,3240.975257
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,977.4362232,1591.852699,565.5157621
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,2197.676748,3572.749981,1338.563836
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,10505.8065,16117.4008,6456.057591
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,3413.366429,4717.592776,2308.132293
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,23639.48517,42331.29521,15028.26957
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,515.462732,917.315011,297.3628554
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2004,787.4269592,1276.886199,479.0451397
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,331111.0411,531821.6844,202151.1063
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,31380.21171,44632.85236,14894.6557
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,20286.8741,33899.28188,11874.20445
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,6603.451329,10359.43498,4189.007973
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,10859.73959,16890.73931,6749.456619
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,23800.85731,42492.35449,14734.81539
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,1022.12921,1643.42841,599.4752586
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,540.3388558,964.3027796,316.2948039
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,2258.507041,3616.36895,1471.185349
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,6609.987627,11091.48281,3437.172173
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,26924.66642,46607.02249,13209.95563
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,280.0895512,473.0229133,133.5419067
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,15513.41304,25163.47153,9604.36203
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,277.0077904,439.2461804,161.3296759
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,19628.08366,32014.31823,9853.268062
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,403.1499256,711.9787107,223.840578
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,3745.106533,5254.965361,2598.794047
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,50938.27362,91024.64366,25861.16661
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,28888.12006,46108.54505,17095.59422
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,12011.14962,23623.37228,6787.089504
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,11440.7277,18333.41649,6974.65854
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,2258.289325,3402.403032,1350.600747
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,20048.55089,32778.30965,10028.8002
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,3454.519812,5241.395139,2169.547022
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,5952.377064,10960.0117,3088.771184
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,5744.672887,9499.47488,3236.792162
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,167.4073871,269.9903695,108.0057954
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,484.9794411,807.6599515,293.5547264
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,13313.86326,22315.8165,7404.266633
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,6986.386557,11320.93154,4288.012107
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,448.6125391,793.3769092,234.5521186
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2005,809.7942895,1284.976777,490.0242136
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,338634.7863,523405.0885,209243.719
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,571.8817946,1005.86452,332.0263546
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,20989.55561,33974.98716,12380.38697
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,7163.602724,11956.30488,3775.999083
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,6689.541498,10360.8696,4329.433576
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,11311.61916,17817.9603,7319.888403
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,23638.01467,42634.52644,14803.90227
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,1087.896177,1739.158312,662.4492174
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,2351.930225,3703.342808,1521.473421
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,306.6216845,481.7415679,178.7175118
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,15929.02861,25693.01294,10080.59128
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,20404.08843,31874.3368,9890.50579
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,51085.1654,90099.09984,26358.28186
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,438.7547102,759.2995214,250.6036563
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,30001.11345,46367.80856,18249.23336
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,293.2836102,487.3693243,138.4146542
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,6020.162198,9767.567547,3457.799527
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,512.5206905,831.0995943,304.2534556
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,465.4057989,833.4497791,238.277042
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,7042.263465,11359.12067,4278.999592
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,6149.564593,11590.53227,3302.470912
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,180.5842151,283.2379579,115.9907137
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,3534.457418,5287.42556,2256.708743
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,13803.04819,22716.0579,8171.476387
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,3909.180493,5502.058032,2643.728621
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,11967.53548,18907.93052,7194.811942
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,20736.27493,34361.50634,10754.84389
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,12603.00193,24562.14289,6840.024894
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2006,855.9798196,1375.3881,516.835624
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,32298.37207,45328.11505,15955.22633
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,2344.993751,3494.992285,1444.499769
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,353280.4022,538174.9438,221281.588
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,22179.04103,35274.7006,13134.53391
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,27867.84208,49094.0652,14347.83755
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,8007.604694,13210.0883,4313.950937
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,6962.045209,10738.87811,4572.442444
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,1180.677444,1882.164156,725.7088305
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,11762.5588,18240.95919,7608.213571
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,2527.128723,3972.78234,1619.081187
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,23778.50398,42031.18582,14922.56205
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,613.8374039,1042.63156,369.5703076
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,6501.362572,11922.64004,3466.801929
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,3680.65347,5580.623684,2336.751904
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,195.4048457,293.8760081,126.0849979
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,21251.30491,35367.05821,11077.97674
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,31245.44435,48047.98446,19244.52931
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,33151.3166,47318.2376,16329.69256
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,309.5756883,505.3497805,144.1905024
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,14617.08537,25061.45811,8352.136796
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,6363.952691,10258.01708,3627.864142
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,534.0171051,860.3036209,321.6491481
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,7201.137055,11390.29892,4535.116929
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,484.8166019,859.353122,246.8506966
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,329.9382939,498.083702,193.196004
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,16865.56993,27180.91653,10731.5642
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,21528.57647,34135.51908,11056.77305
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,360975.6472,543689.5583,226771.7241
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,28474.32102,50499.70163,14671.49603
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,649.6433836,1101.184134,377.099065
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,4174.978758,5953.773998,2820.163237
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,53282.3499,94522.51054,27643.00386
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,485.0175621,827.9397711,281.6425542
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,7881.667285,12770.54195,4346.307913
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,22967.88324,36246.06428,13702.63597
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,11950.76965,18913.14493,7645.121445
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,7130.252509,10673.36354,4645.054372
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,12297.86784,19315.74876,7447.643071
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,1234.420842,1911.34155,741.0152131
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,23928.39993,43450.32782,15011.48679
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,13050.31113,25410.05883,6982.833701
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,2639.039994,4195.902428,1667.814737
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,2390.474603,3558.529714,1468.11894
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2007,916.9023034,1487.214369,551.1185968
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,6432.760619,10200.51334,3644.165412
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,17060.69136,27444.70402,10759.44011
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,346.3652209,528.5465774,204.5492614
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,367401.602,556522.5021,233148.3414
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,22463.72116,35116.27232,11476.70302
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,54011.26623,94499.28971,29607.82237
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,510.4049509,879.6276115,294.09939
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,31426.06438,47598.05776,19175.12782
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,310.8103703,499.1037099,145.6365333
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,548.5838226,880.7277154,329.9617158
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,949.8515061,1536.819334,579.0418983
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,488.6024061,850.1040579,250.9714058
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,7145.001894,11129.64842,4419.503461
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,23738.52208,38258.18015,14071.96239
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,7739.094396,12529.20121,4166.885492
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,6848.006895,13564.66001,3606.328952
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,7331.515698,10991.34207,4708.72848
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,11816.12077,18766.04401,7548.164361
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,1273.170921,2008.698306,768.2657916
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,24163.55379,44524.45165,14913.67374
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,2785.611681,4360.316829,1692.867134
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,3786.692338,5691.482237,2413.407278
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,663.634922,1095.161792,395.6451846
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,204.3314042,303.1031693,133.5937531
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,4367.31934,6244.718879,2909.927614
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2008,15269.84095,25607.47493,8497.67734
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,13129.79358,25865.50111,6682.959659
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,2497.307589,3677.564539,1553.973637
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,28818.96098,48377.65683,15047.34961
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,12569.11453,20047.22297,7700.673892
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,529.0267734,906.2110916,305.872268
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,21718.20897,35450.6142,11698.0564
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,7180.744469,11075.13015,4375.166773
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,34167.69885,48335.22112,17132.24964
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,7115.786094,14046.08113,3736.240334
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,3882.531647,5811.351216,2478.608542
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,379116.3545,576945.3323,236008.0347
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,3067.688978,4844.995764,1838.895514
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,703.4799024,1141.266696,428.016626
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,31297.06854,47104.64993,19214.49319
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,309.6092825,507.809144,143.900846
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,24822.11967,39652.78241,14517.07863
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,7563.095586,11181.83242,4996.006332
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,8369.774679,13473.61812,4529.0323
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,1306.999884,2043.695183,823.3622388
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,212.2549602,311.0125932,134.0429574
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,12007.12495,20142.36868,7499.416278
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,988.3643726,1593.689104,596.6963565
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,16034.23067,26945.75106,8677.069538
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,2575.284761,3921.252792,1576.126103
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,22538.10465,36548.6435,12262.70988
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,368.444224,571.9885269,221.6841055
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,24855.20758,44915.38493,15027.3112
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,16845.14174,27091.20682,10572.36466
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,55150.6123,93986.24722,30667.8124
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,23276.44304,36053.37408,12043.43477
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,6378.778885,10370.10225,3613.092547
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,35100.0876,48814.39664,17980.77659
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,29383.60243,48437.94852,15365.28343
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,4510.967039,6433.56919,3000.111614
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,489.3976107,844.5878395,249.154599
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2009,563.5392373,895.1824488,341.0457177
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,13365.00848,26754.38859,7097.726886
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,17440.61486,28710.24075,9492.176492
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,12973.82319,20488.2569,7918.265894
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,383751.4959,581771.4471,236532.5611
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,17337.90056,27038.88167,10674.42443
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,387.7161366,580.0920508,234.0018649
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,8830.006983,14237.57383,5083.211068
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,26090.69852,41943.66924,15386.2654
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,24045.78669,38381.80025,12845.81265
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,12568.62516,21123.75118,7896.771891
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,7934.191951,11640.39469,5220.112118
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,562.6266404,971.8985656,322.065421
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,1352.804433,2121.725952,846.8248295
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,25936.28139,46884.77233,15625.72313
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,56837.2598,95732.62705,31352.67266
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,3234.954729,5116.317636,1994.157691
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,744.6459633,1199.885585,439.4506766
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,31543.02365,47366.63743,19371.03996
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,314.7729341,502.9911735,142.7712695
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,6468.722698,10475.23382,3648.141089
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,586.6673324,924.9821533,345.6034642
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,501.8237007,834.2002214,250.2531472
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,7370.641095,11582.17804,4642.276689
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,28502.17997,46280.33537,15311.05673
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,7337.942563,14370.41212,3878.736471
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,1037.340334,1612.755602,610.781468
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,3982.697004,5960.956622,2480.212277
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,395795.5682,594456.9881,249285.2016
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,4415.779444,6195.261109,2947.38786
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2010,218.449159,318.2330686,140.2149356
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,13418.87359,26740.24697,7092.125244
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,12937.58213,19962.99824,7866.709387
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,2558.345919,3888.77638,1606.141449
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,22284.2454,35791.1238,11989.53619
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,57683.88556,95803.75728,31539.4074
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,595.906797,1006.761096,336.9793851
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,30768.02999,46429.10806,18795.68118
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,329.4762696,551.460427,149.9632538
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,787.5241365,1251.154148,476.7494486
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,35534.7761,48719.68168,18175.15517
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,3410.409626,5293.948811,2111.164047
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,27528.8378,45350.95482,16448.20296
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,412.455855,627.0736915,254.7366645
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,17871.32079,28226.48449,11229.63904
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,8202.072503,12304.27778,5371.032194
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,23853.10453,37296.73282,13220.64059
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,8340.038532,13236.73201,4622.182857
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,1414.637929,2308.862504,895.3736866
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,13233.91491,22972.91281,8257.275062
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,513.9649702,873.7550519,252.9663012
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,27986.03653,51419.93115,16600.11056
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,7415.398438,11429.28806,4755.294707
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,7308.621114,13803.17593,3856.495749
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,13129.7502,20308.75876,8076.500665
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,2462.760378,3775.477232,1493.441451
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,3986.124902,5983.373641,2468.750544
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,223.3455,331.11819,139.5299343
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,22701.09467,36394.06214,12603.33034
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,418640.9272,637022.7426,266273.0079
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,1074.856528,1674.417905,629.9195927
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,37249.41712,52118.80694,19228.93429
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,28574.29138,46485.94224,15449.95451
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,18237.38873,30512.79059,9948.378842
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,4531.745621,6132.852703,3068.58784
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,14056.40536,27988.4753,7355.031868
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,6534.412252,10433.4076,3716.708515
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,9187.805809,14453.64384,5188.515415
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,29386.64945,47096.93225,17437.60814
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,12924.65174,22690.63229,7829.667206
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,8677.037243,13195.32646,5448.797341
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,30940.34466,58170.74998,18498.53739
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,1487.573249,2472.404828,910.6015349
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,824.445894,1366.894989,507.3677724
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,3766.714959,5782.196964,2266.954845
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2011,599.2120013,985.3044428,351.7704756
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,18375.216,29096.94539,11627.81334
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,435.0256435,668.8241072,269.0381094
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,23963.5925,36557.89416,13381.44172
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,636.9771267,1076.622166,360.9958259
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,345.3452892,593.7310331,159.9392576
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,30325.77232,49018.26906,16063.93084
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,59425.55705,97311.43295,33783.1218
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,30725.57495,46967.17923,18869.4104
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,4671.757519,6556.237511,3104.189568
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,15010.41399,30360.92538,7814.687364
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,2318.923197,3506.615528,1422.861627
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,19249.84405,31772.24279,10850.23448
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,13598.05314,21120.90334,8515.148162
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,7025.547208,11071.37516,4043.346754
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,23904.92881,38356.72574,13166.02605
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,40584.29535,57256.99522,21440.28849
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,447123.1761,685453.2931,284249.3749
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,608.9382367,1016.263473,352.387452
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,31883.59202,51358.21527,18865.764
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,9595.569607,14517.66274,5989.093155
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,9278.181446,14654.2353,5540.636399
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,4044.342872,6293.662329,2456.311695
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,867.9319704,1368.381705,518.8154823
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,12580.72442,21401.76951,7532.754631
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,33597.91372,62453.93011,20118.83913
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,533.0636216,917.0903929,266.9886628
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,1326.110291,2146.738469,803.6512749
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,7619.26514,11805.63245,4815.613662
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,7864.116104,14620.75924,4200.976523
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,1127.763592,1762.015377,659.7484662
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,227.2667847,349.0604358,143.8842111
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2012,4023.538234,6117.131493,2465.179759
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,13922.79976,21592.33723,8826.285366
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,15919.6989,31734.63071,7852.233385
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,2190.398328,3220.001613,1334.46723
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,25620.30042,41056.61715,14469.0703
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,44379.39441,63386.6687,23846.99654
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,33822.17312,55236.54104,18366.28688
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,24485.08199,37206.11604,13877.55486
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,683.3437944,1166.421434,389.1919076
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,341.381592,577.7103798,154.9699663
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,61982.55927,100586.5194,35225.37082
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,32230.43347,48903.36961,19899.24784
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,467.4315254,724.914565,277.3779099
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,19308.26715,31157.19458,12228.13572
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,4996.45515,7038.200732,3212.770269
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,468622.5176,713025.2513,299621.9691
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,10885.77684,17154.52785,6453.734458
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,33789.52942,54112.6508,20014.24806
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,12912.02845,22382.19441,7647.212685
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,10451.43428,15654.05734,6461.382558
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,34780.69941,62224.00855,20635.27036
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,893.6639112,1412.517278,516.815526
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,1444.660323,2250.657331,889.3095594
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,4140.634814,6260.542398,2464.734853
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,46142.92818,66433.30358,24301.92529
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,644.294335,1048.963946,367.1124067
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,35804.82853,58244.3876,19132.73059
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,557.3643585,955.7757208,278.338618
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,8172.316827,12438.54527,4987.40357
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,8112.84464,15662.91064,4355.27214
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,4096.489666,6233.89074,2472.470627
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,229.7640978,351.9836113,142.7287824
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,5302.059441,7487.689616,3420.712538
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,20956.12793,35014.21465,11867.81896
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,7532.662017,11814.65421,4349.792765
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,16392.67555,32468.41181,8363.574632
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,14721.3808,22833.62136,9157.756281
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2013,1231.197184,1947.540219,723.1030431
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,27054.61893,43695.92674,15089.93607
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,2114.612488,3202.644848,1316.599706
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,481228.8683,734354.9047,315777.1307
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,505.7556019,751.0996158,311.4388967
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,20670.53948,33112.13235,13296.97996
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,25304.00472,39123.09424,14476.42503
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,749.6686884,1294.358285,424.1893287
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,66987.6721,109775.2192,37256.01083
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,379.6408664,660.0420903,171.0520834
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,33989.56561,52240.02923,20810.86822
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,32904.05975,60609.05543,19608.63521
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,992.4303347,1636.579062,583.9092807
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,34712.6295,56211.26079,21278.5048
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,4220.378398,6413.240774,2498.651562
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,11118.30837,17231.53001,6936.998407
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,12507.93289,20218.45426,7407.128305
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,13193.23236,22426.8167,7644.640281
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,1730.515431,2839.660114,1033.21539
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,16868.67292,34856.60408,8557.36848
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,15891.97649,24870.90615,9932.227447
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,8290.75923,12809.96158,4686.269952
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,21972.93214,37453.94328,12837.31424
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,675.809426,1096.345319,395.1601849
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,8750.170035,13203.67713,5363.977059
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,4231.838343,6532.087055,2540.585423
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,601.3615812,1042.68141,299.9327265
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,8423.528531,16724.03251,4499.601106
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,232.9856331,351.4485128,140.8373196
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,27836.52712,44164.29988,15757.57848
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,2085.298641,3230.125807,1293.943025
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2014,1331.357652,2139.203776,797.1065368
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,46469.63407,66005.45538,23085.42403
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,543.7807213,826.8240994,341.3036618
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,26052.27793,39657.46144,15158.30024
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,809.7910832,1414.679456,454.8301101
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,37166.26525,62273.22652,20221.19099
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,411.8777589,714.7341139,184.1598901
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,70318.44295,117568.2542,39743.96028
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,35359.58077,54782.23908,21770.37717
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,21556.72747,34524.95474,14266.41776
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,5523.995657,7721.746503,3495.835211
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,487884.9119,760665.4166,322930.8615
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,35394.83217,57648.5774,22282.14448
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,14606.85633,22948.30008,8730.350012
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,45796.76182,66241.74975,23603.02838
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,12007.39214,19177.57169,7356.752263
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,13165.10399,22671.2032,7846.552289
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,28026.65946,52919.71789,16228.90787
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,1806.359442,2947.402641,1092.789921
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,1074.880831,1780.266004,627.8528199
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,4488.037411,7330.398405,2654.46109
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,38183.08273,63406.17296,20919.60082
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,700.0098356,1162.816778,419.0502438
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,5608.486694,7982.815082,3523.441896
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,8932.478975,13591.95897,5405.056964
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,4496.553059,6976.812251,2778.644784
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,16879.07945,27021.71573,10305.15524
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,17110.87563,33591.70553,8670.010271
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,631.212168,1074.425152,326.1145579
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,9119.047778,14110.91093,5248.987149
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,8790.249066,17081.42305,4545.666915
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,232.4811665,350.9054801,141.7331715
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,27981.54454,45064.79146,16176.65436
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,2160.341774,3496.328778,1353.004086
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,22415.58066,37714.34417,13181.32242
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,474.2043604,843.9123441,213.8781893
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2015,1420.894798,2303.358586,864.2568483
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,21695.37942,34750.15254,14647.57181
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,583.4109279,870.1624303,356.5055022
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,72569.26457,120631.782,41490.63428
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,27020.75063,41435.5922,15868.87003
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,867.0268205,1491.295308,488.1053
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,35842.74931,54584.43306,22320.58702
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,5679.315456,8409.967619,3539.554709
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,16635.91022,33008.1783,8242.559584
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,17362.18576,26812.60959,10733.78248
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,28601.44775,46302.40594,16783.96162
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,2273.2636,3621.913899,1392.43604
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,230.2742553,341.2137995,134.2103078
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,10009.22749,15909.3719,5839.033748
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,44476.30148,63840.185,22812.92552
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,700.4310192,1192.388354,410.6772649
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,22932.75122,38458.6048,13028.41924
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,8974.283251,13522.9827,5607.094126
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,4674.679191,7261.021273,2923.900342
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,658.9398636,1140.839425,339.7142216
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,1505.181967,2440.635545,893.4053168
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,496154.791,795478.3225,324030.6123
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2016,9268.456788,18096.73183,4792.950511
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,41123.83342,67916.32722,22798.99645
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,27472.99437,51973.41068,15704.60557
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,1142.859177,1887.048593,678.713751
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,35778.69509,55912.33107,21601.76293
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,13064.64691,20813.21643,7944.821162
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,621.0050198,920.0985317,385.7715579
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,16487.24223,27241.94883,9762.282394
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,4810.790767,8006.338004,2878.717131
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,12943.6239,22259.91063,7402.479126
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,1776.856462,2843.648041,1055.184933
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,21191.08323,33679.91025,14897.62663
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,75217.07987,124344.4468,43782.04141
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,28338.59567,43853.10448,16666.31807
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,696.396317,1166.351478,409.4829553
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,35703.70815,54583.90245,22581.44207
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,921.5710544,1582.455844,510.0310173
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,500.7640639,887.2609311,227.7458623
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,699.6722006,1219.602984,366.0473839
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,9105.558811,14193.68323,5516.181334
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,9506.465087,18643.02364,5019.633903
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,4821.687834,7524.455069,2974.015534
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,227.024748,340.0745309,137.9309923
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,23753.0315,39882.81428,13476.84723
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,10715.47333,17716.54297,6299.615254
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,29745.49817,48432.82101,17177.3392
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2017,1575.500642,2652.754401,916.8562015
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,43816.74515,63472.91052,22903.55687
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,45245.50342,77891.1196,25345.01064
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,6029.943024,8946.052976,3730.452596
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,18205.03878,28349.0878,11006.19143
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,16942.18132,35251.94652,8129.249316
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,2404.214182,3802.511433,1481.674705
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,514347.8384,809165.3212,332853.3868
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,223.2021012,343.7529243,134.3703353
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,24689.17782,41238.099,14036.87916
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,11548.03477,19292.88952,6814.653982
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,743.913067,1259.082168,386.1603239
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,9662.69343,19842.15299,5052.742036
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,699.0370106,1183.834592,398.0083407
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,9303.694464,14737.18238,5538.423091
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,4990.962668,7960.028801,2989.471549
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,1632.357733,2725.252188,943.6395817
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,18439.1743,30027.38092,11217.99312
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,36452.26564,55746.44569,21846.37446
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,1898.382141,3128.702434,1135.543674
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,34634.40865,51728.70407,21605.95094
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,530.2618407,944.1996148,242.1383861
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,14378.27628,22638.1198,8478.082123
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,12842.4802,21554.3719,7252.090271
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,20896.92646,32887.58736,14350.26185
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,5140.204075,8426.369892,2989.219467
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,29546.90568,45971.61412,17358.17282
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,656.6463505,1010.601269,416.1356846
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,979.9933814,1757.364286,544.6619182
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,26065.09516,49093.62242,14855.71188
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,1210.053172,2008.032465,711.0256287
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2018,75786.60896,125694.3266,43107.41746
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,6473.925658,9364.096949,4112.626977
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,19325.31043,30167.91569,11812.97644
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,17501.16405,35767.23603,8120.91764
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,30906.54233,48649.61042,18473.4899
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,2516.76328,3957.593666,1561.398347
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,537581.7842,805320.409,339612.745
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,43852.77862,63779.85738,22733.2919
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,12620.4,20379.74884,7463.853031
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,706.6335519,1240.944247,395.3285395
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,49492.77624,83735.85823,29677.29101
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,792.4793726,1335.330121,403.7494724
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,9783.587989,15751.589,5683.761084
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,10125.26072,21060.88536,5253.358957
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,5260.056084,8224.47352,3204.495394
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,220.8894451,350.1353167,131.3150852
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,25979.16641,42640.98098,14842.16746
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,2004.532274,3360.61198,1195.170098
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,25052.70294,46647.92834,14160.30425
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,1721.117257,2921.791779,973.0760426
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,5719.445158,9163.647141,3289.267719
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,1267.037957,2073.427202,719.5782537
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,36622.14019,56226.89957,22141.01694
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,15660.44195,24152.04068,9068.175456
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,20262.0019,32045.25177,12120.8868
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,20890.79793,33238.23969,14015.5313
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,12358.19389,20597.84845,6833.541254
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,699.0253978,1113.423344,434.5075827
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,79012.13521,128855.3571,44614.55502
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,31235.54574,47565.32719,18278.64683
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,34858.56738,52330.94169,21977.12636
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,1059.361222,1944.501362,566.2342017
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2019,567.7597163,996.8711988,265.0212331
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,2642.466389,4045.273559,1542.726957
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,31830.68747,49371.34655,19260.38815
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,53856.57288,88521.46945,32121.59754
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,42422.40416,62038.71308,22140.61398
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,6621.59016,10112.11787,3868.68104
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,13511.95228,21179.22055,7940.695701
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,5437.097757,8298.607806,3281.506676
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,717.1145803,1217.995316,396.9145676
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,10236.41564,20914.89113,5194.398792
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,10368.63848,15983.24952,6107.760053
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,228.2567919,353.8487376,135.5620715
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,27064.31906,43889.99302,14990.59977
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,861.0262907,1460.507765,452.9511187
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,18188.02839,36119.79961,8415.148394
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,1830.410868,3121.329468,1022.109435
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,20421.73005,30052.86548,12334.11012
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,1131.314487,1996.997033,601.0310859
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,648.8775494,1091.950471,300.2609213
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,63389.64168,102796.5554,37769.96869
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,562328.2256,837267.1448,355175.4652
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,21204.75407,33065.97667,12748.27852
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,37415.83151,57700.87718,22923.6799
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,18266.08335,28119.0939,10718.27701
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,11912.37688,20625.51533,6514.492116
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,748.8863968,1140.175532,448.8866549
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,23953.50113,45013.91349,12812.91108
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,35738.60602,54147.90871,22246.06078
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,2058.911669,3410.877528,1177.769988
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,1364.119424,2289.965324,728.92384
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,21718.57977,34671.21397,14600.54969
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,84776.28547,138365.4892,48399.95022
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,6768.196244,10763.52813,3871.396685
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2020,33548.24588,49143.53667,19801.8569
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,6990.095712,10497.52957,4143.780668
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,20151.31288,38261.4516,9657.584397
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,21832.23485,32325.69473,12734.22835
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,3041.661911,4665.118584,1755.131012
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,35421.33416,53809.72436,21553.7456
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,44978.75333,67517.51343,23327.97612
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,15770.57749,23605.19975,9732.099722
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,611928.2377,949235.9126,385998.0176
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,736.126368,1231.997819,399.6931807
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,10610.8422,16243.42412,6302.753696
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,1051.156974,1777.334387,555.8575862
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,5720.860093,8846.336264,3387.982954
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,10142.04711,20735.94445,4918.369576
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,23824.76666,44059.26969,12566.71092
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,1507.854135,2551.337775,820.64422
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,2308.08351,3867.088751,1314.112767
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,41312.56794,62902.55577,25059.63454
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,6182.680487,9738.287822,3401.669428
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,23739.74027,36405.36958,14124.46563
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,13928.21086,24096.34165,7560.959594
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,20366.12544,31941.95195,11605.08069
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,244.484742,373.3249784,144.5341154
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,28933.53908,46642.29323,16495.2567
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,1944.568843,3294.94302,1070.493001
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,834.1688037,1229.16003,497.8203199
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,23097.40616,36071.878,15020.03852
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,35766.70019,52279.01771,21651.8231
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,90475.86393,148404.6261,51096.16223
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,1336.982076,2346.093837,706.3408366
+1,All Population,5,Prevalence,4865,Odisha,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,22771.10291,35487.02147,13348.33481
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,35934.05252,53706.49826,22280.51772
+1,All Population,5,Prevalence,4853,Himachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,3191.811611,5194.408697,1916.75991
+1,All Population,5,Prevalence,4868,Rajasthan,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,37521.41817,58831.71296,22042.68224
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2021,801.5952057,1347.251594,387.8557491
+1,All Population,5,Prevalence,4870,Tamil Nadu,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,49675.47972,78388.17475,25637.41944
+1,All Population,5,Prevalence,4844,Bihar,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,68427.48265,111379.7777,40641.27816
+1,All Population,5,Prevalence,4849,Delhi,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,7525.8826,11121.13069,4461.948961
+1,All Population,5,Prevalence,4851,Gujarat,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,21499.2061,42094.22558,10150.43773
+1,All Population,5,Prevalence,163,India,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,649896.7685,971482.9184,407113.0212
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,11350.54216,23018.32459,5357.722098
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,6387.780022,9857.215974,3677.855969
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,246.4995747,367.5760421,144.0282793
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,31820.75353,53663.36527,17865.7939
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,15726.28975,24413.63149,9763.797856
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,763.427228,1311.334353,418.1879605
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,11181.81059,16835.67349,6288.542804
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,1015.303028,1706.61341,538.3848008
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,888.0843439,1314.417539,519.684525
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,1337.12792,2395.205383,674.597927
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,96249.49674,159603.6385,54064.65001
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,756.9936192,1299.215819,359.4227859
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,40168.82732,60680.72002,24425.43151
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,23854.49986,39464.79273,15482.99761
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,39116.22892,56436.52297,23538.28045
+1,All Population,5,Prevalence,4841,Andhra Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,43225.66545,69822.53969,25800.54255
+1,All Population,5,Prevalence,4843,Assam,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,21479.17594,34685.80037,12515.42352
+1,All Population,5,Prevalence,4855,Jharkhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,24486.24628,39826.17623,14575.80772
+1,All Population,5,Prevalence,4872,Tripura,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,2305.620275,3931.334588,1254.708253
+1,All Population,5,Prevalence,4874,Uttarakhand,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,6260.728167,10510.21993,3385.803079
+1,All Population,5,Prevalence,4857,Kerala,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,14654.71525,25825.16548,8370.758314
+1,All Population,5,Prevalence,4860,Maharashtra,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,26566.53532,49488.61466,13293.22919
+1,All Population,5,Prevalence,4862,Meghalaya,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,1548.441155,2603.769284,844.5790543
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2022,2089.509322,3619.015752,1160.650289
+1,All Population,5,Prevalence,4846,Chhattisgarh,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,15585.83371,24068.11347,9320.087245
+1,All Population,5,Prevalence,4850,Goa,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,780.6314192,1376.510641,429.3453967
+1,All Population,5,Prevalence,4864,Nagaland,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,1024.891084,1668.198668,531.465594
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,900.9851399,1291.717576,546.8567985
+1,All Population,5,Prevalence,4852,Haryana,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,11693.31078,18005.75763,6690.373904
+1,All Population,5,Prevalence,4856,Karnataka,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,25553.07359,41386.61783,16558.45483
+1,All Population,5,Prevalence,4867,Punjab,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,11889.64254,24320.52718,5942.98134
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,6662.327754,10187.16068,3995.213726
+1,All Population,5,Prevalence,4869,Sikkim,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,259.0672183,405.0689485,153.4600995
+1,All Population,5,Prevalence,4859,Madhya Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,42544.94342,62735.11372,24332.50056
+1,All Population,5,Prevalence,4861,Manipur,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,1376.479031,2456.796547,717.4778389
+1,All Population,5,Prevalence,4873,Uttar Pradesh,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,101010.2542,170723.8463,54583.71358
+1,All Population,5,Prevalence,4871,Telangana,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,32799.76806,54022.69913,18303.92861
+1,All Population,5,Prevalence,44538,Other Union Territories,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,2120.692655,3544.633265,1143.843415
+1,All Population,5,Prevalence,4863,Mizoram,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,759.9807643,1290.181656,355.0570734
+1,All Population,5,Prevalence,4875,West Bengal,2,Female,22,All ages,432,Cervical cancer,1,Number,2023,43795.37548,65353.84613,26899.02898

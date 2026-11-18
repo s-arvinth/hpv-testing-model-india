@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "HPV Testing Model — India: a compartmental model of HPV infection, testing and cervical cancer"
+message: "If you use this code or its results, please cite the paper and this repository."
+type: software
+version: 1.0.0
+authors:
+  - name: "TO BE COMPLETED BY THE AUTHORS"
+repository-code: "https://github.com/s-arvinth/hpv-testing-model-india"
+license: "TO BE COMPLETED"

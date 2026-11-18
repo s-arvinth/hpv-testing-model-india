@@ -1,0 +1,20 @@
+# Exact environment used to produce and verify the paper's results (Linux x86-64).
+# For the model alone, `pip install -e .` in any Python >= 3.9 environment is enough.
+# Bit-identical regeneration is guaranteed with these versions; other versions/platforms
+# agree to ~1e-7 relative (LSODA / libm differences), which does not change any reported digit.
+name: hpvcc
+channels: [conda-forge]
+dependencies:
+  - python=3.9
+  - numpy=2.0.2
+  - scipy=1.13.1
+  - pandas=2.3.1
+  - matplotlib=3.9.4
+  - openpyxl=3.1.5
+  - pyyaml=6.0.2
+  - geopandas=1.0.1
+  - shapely=2.0.7
+  - pytest
+  - pip
+  - pip:
+      - -e .
